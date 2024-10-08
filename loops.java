@@ -9,6 +9,7 @@ public class loops {
         int n = s.nextInt();
         int i = 1;
 
+
         // while loop in java
         while (i<=n) {
             System.out.println(i);
