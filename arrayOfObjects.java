@@ -32,6 +32,12 @@ public class arrayOfObjects {
         students[0] = s1;
         students[1] = s2;
         students[2] = s3;
+
+        // Implimenting for each loop 
+
+        for (student stud : students) {
+            System.out.println("student name : " + stud.name + " ,marks : " + stud.marks );
+        }
         
     }
 }
