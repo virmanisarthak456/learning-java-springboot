@@ -20,7 +20,7 @@ public class conditionals {
         // Switch statement in JAVA
 
         int numberofDay = 7;
-
+        
         switch (numberofDay) {
             case 1:
                 System.out.println("Monday");
